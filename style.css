@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    color: white;
+    background-color:darkred;
+    display: inline-block;
+    width: 100%;
+    padding: 1em;
+    font: roboto;
+    
+    
+}   
+
+
+nav >  a{
+    color: white;
+}
+.work{
+    font:arial
+}
+#home{
+    font:18px;
+    font: arial;
+}
